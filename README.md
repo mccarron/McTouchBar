@@ -1,10 +1,9 @@
 # Touch Bar And Your App - Example Project
 ## Cocoaheads Chicago
-## 2/16/2017
+## 2/15/2017
 
 ### Presentation Slides at SpeakerDeck: 
-
-https://speakerdeck.com/mccarron/touch-bar-and-your-app
+* https://speakerdeck.com/mccarron/touch-bar-and-your-app
 
 ### Links: 
 
